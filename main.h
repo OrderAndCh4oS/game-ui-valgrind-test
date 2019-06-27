@@ -1,0 +1,6 @@
+
+#ifndef ALLEGRO_VALGRIND_TEST_MAIN_H
+#define ALLEGRO_VALGRIND_TEST_MAIN_H
+#include <iostream>
+
+#endif //ALLEGRO_VALGRIND_TEST_MAIN_H
